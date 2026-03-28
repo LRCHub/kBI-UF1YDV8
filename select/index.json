@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Gimme Gimme",
+  "base_artist": "Johnny Stimson",
+  "createdAt": "2026-03-28T09:34:04.677662Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gimme, Gimme",
+      "artist": "Lords of Acid",
+      "has_synced": true,
+      "path": "select/01_Gimme,_Gimme_Lords_of_Acid.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gimme Gimme",
+      "artist": "Lords Of Acid",
+      "has_synced": true,
+      "path": "select/02_Gimme_Gimme_Lords_Of_Acid.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gimme Gimme Teenage Head",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/03_Gimme_Gimme_Teenage_Head_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/04_Gimme!_Gimme!_Gimme!_(A_Man_After_Midnight)_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gimme,Gimme,Gimme",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/05_Gimme,Gimme,Gimme_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gimme Gimme Gimme",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/06_Gimme_Gimme_Gimme_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gimme Gimme",
+      "artist": "Whigfield",
+      "has_synced": false,
+      "path": "select/07_Gimme_Gimme_Whigfield.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Money (Gimme, Gimme)",
+      "artist": "The Basics",
+      "has_synced": true,
+      "path": "select/08_Money_(Gimme,_Gimme)_The_Basics.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gimme Gimme",
+      "artist": "Bad Company",
+      "has_synced": true,
+      "path": "select/09_Gimme_Gimme_Bad_Company.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "GIMME! GIMME! GIMME! (A Man After Midnight)",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": false,
+      "path": "select/10_GIMME!_GIMME!_GIMME!_(A_Man_After_Midnight)_Yngwie_Malmsteen.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gimme, Gimme, Gimme",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": true,
+      "path": "select/11_Gimme,_Gimme,_Gimme_Yngwie_Malmsteen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gimme! Gimme! Gimmie!",
+      "artist": "Yngwie J. Malmsteen",
+      "has_synced": true,
+      "path": "select/12_Gimme!_Gimme!_Gimmie!_Yngwie_J._Malmsteen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gimme Gimme Shock Treatment",
+      "artist": "Powermad",
+      "has_synced": false,
+      "path": "select/13_Gimme_Gimme_Shock_Treatment_Powermad.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Gimme Gimme",
+      "artist": "Die Happy",
+      "has_synced": false,
+      "path": "select/14_Gimme_Gimme_Die_Happy.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Gimme Gimme Shock Treatment",
+      "artist": "Per Gessle",
+      "has_synced": true,
+      "path": "select/15_Gimme_Gimme_Shock_Treatment_Per_Gessle.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Gimme! Gimme! Gimme!",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/16_Gimme!_Gimme!_Gimme!_Erasure.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gimme Gimme",
+      "artist": "Johnny Stimson",
+      "has_synced": false,
+      "path": "select/pl_01_Gimme_Gimme_Johnny_Stimson.txt"
+    }
+  ]
+}
